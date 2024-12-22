@@ -16,7 +16,9 @@
 	<meta charset="<?php bloginfo( 'charset' ); ?>">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<link rel="profile" href="https://gmpg.org/xfn/11">
+	<!-- keyWord: Follow Steps in readme.txt (https://github.com/kylemichaelsullivan/underwind/blob/main/readme.txt) -->
 	<script src="https://cdn.tailwindcss.com"></script>
+	<!-- /keyWord -->
 	<?php wp_head(); ?>
 </head>
 
